@@ -1,0 +1,5 @@
+Copyright (C) 2025 Taylor Hollman
+
+All rights reserved.
+
+Unauthorized use, reproduction, or distribution of this code is prohibited without prior written permission from the author.
