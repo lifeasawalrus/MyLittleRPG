@@ -1,7 +1,12 @@
 
 <h1 align="center"> ✨ My Little RPG ✨ </h1>
 
-![animation of gameplay](https://github-production-user-asset-6210df.s3.amazonaws.com/91388497/415774121-2b6a0148-4ac0-43ee-92e0-a5aec76cf390.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250221%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250221T181426Z&X-Amz-Expires=300&X-Amz-Signature=aa5413bf1b86c5a22f35d85e11fa385b69e6f53eac27014f5f5460b47e1c7a3b&X-Amz-SignedHeaders=host)
+<div style="text-align: center">
+    <img src="https://github.com/user-attachments/assets/c0260266-4ec9-4e86-8843-22dad1fc276d' alt='animation of gameplay' style=" alt="animation of gameplay" style="width: 200%; height: auto;">
+</div>
+
+
+<!-- ![animation of gameplay](https://github.com/user-attachments/assets/c0260266-4ec9-4e86-8843-22dad1fc276d) -->
 
 This is a passion project for an open world, isometric local multiplayer role-playing game (RPG) set in the MyLittlePony universe. Currently, the game handles as many players as controllers connected to the user's system. The game is built using the [LOVE2d](https://www.love2d.org/) API as well as the open source [LDTK](https://ldtk.io/) map editor tool. The game is in very early development and exists here as a demonstration of capability at this time.
 
